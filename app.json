@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "camera_flip",
+    "slug": "camera_flip",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
